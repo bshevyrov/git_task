@@ -1,7 +1,7 @@
 One modified
 Two modified
-Three
-Four
+Three chaned in clone
+Fourchanged in clone
 Five
 Six
 Seven
